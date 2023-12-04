@@ -12,7 +12,7 @@ const srch = function search(str) {
 	})
 }
 
-
+// for event listener
 function searchHandler() {
 	ul.innerHTML = '';
 	let inputVal = input.value;
